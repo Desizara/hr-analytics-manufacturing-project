@@ -40,3 +40,11 @@ This project analyzes 6 interconnected datasets to answer key business questions
 - Performance ratings are fairly consistent across all departments
 
 ## 📁 Repository Structure
+- sql/01_create_tables.sql - Database schema
+- sql/02_analysis_queries.sql - All SQL queries
+- Screenshots - Dashboard page images
+
+## Dashboard Screenshots
+See the screenshot files in this repository for all 4 dashboard pages.
+
+Built as a self-driven Data Analyst portfolio project.
